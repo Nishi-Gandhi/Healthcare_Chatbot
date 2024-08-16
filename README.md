@@ -59,7 +59,10 @@ open up localhost:
 - Python
 - LangChain
 - streamlit
-- Meta Llama2
+- Meta Llama2 or google/flan
 - faiss
+
+
+Video: https://youtu.be/devio5fR4Tc
 
 
